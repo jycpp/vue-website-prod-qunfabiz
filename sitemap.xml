@@ -3,56 +3,380 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.qunfa.biz/</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.qunfa.biz/sitemap.html</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.qunfa.biz/pages/about.html</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.qunfa.biz/pages/cases.html</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.qunfa.biz/pages/compliance.html</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.qunfa.biz/pages/contact.html</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.qunfa.biz/pages/engine.html</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.qunfa.biz/pages/legacy.html</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.qunfa.biz/pages/solutions.html</loc>
-    <lastmod>2026-10-06T04:35:41.467Z</lastmod>
+    <lastmod>2026-10-06T11:26:51.974Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-bian-ge-email.html</loc>
+    <lastmod>2013-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-bimiantuixin.html</loc>
+    <lastmod>2013-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-butong-shoujianren-neirong.html</loc>
+    <lastmod>2013-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-diu-youjian.html</loc>
+    <lastmod>2014-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-duanxiaojinghan.html</loc>
+    <lastmod>2014-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-email-questions-one-by-one.html</loc>
+    <lastmod>2013-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-email-shoushen.html</loc>
+    <lastmod>2014-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-email-template-shunvwu.html</loc>
+    <lastmod>2013-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-error-qunfa-1300-fired.html</loc>
+    <lastmod>2012-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-excel-email-address-list.html</loc>
+    <lastmod>2022-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-gmail-auto-show-images.html</loc>
+    <lastmod>2013-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-lajiyoujian.html</loc>
+    <lastmod>2011-12-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-mass-attach-and-big-image.html</loc>
+    <lastmod>2012-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-mass-sending.html</loc>
+    <lastmod>2012-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-mass-text-smtp-transfer.html</loc>
+    <lastmod>2013-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-new-version-change-ip.html</loc>
+    <lastmod>2012-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-optimize-title-email-marketing.html</loc>
+    <lastmod>2013-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-peizhi-smtp.html</loc>
+    <lastmod>2014-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-qq-exmail-smtp.html</loc>
+    <lastmod>2012-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-qq-qun-2014.html</loc>
+    <lastmod>2014-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-qunfa-sudu.html</loc>
+    <lastmod>2013-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-qunfa-tupian.html</loc>
+    <lastmod>2011-12-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-set-email-sender.html</loc>
+    <lastmod>2015-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-shoujihaomaheguishudi.html</loc>
+    <lastmod>2012-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-smtp-transfer-import-export.html</loc>
+    <lastmod>2012-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-why-email-shoushen.html</loc>
+    <lastmod>2012-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-yincang-zhenshi-fajianren.html</loc>
+    <lastmod>2012-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-yingjianyingxiaoajiudawuqu.html</loc>
+    <lastmod>2012-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-youjianqunf-lajiyoujian.html</loc>
+    <lastmod>2013-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-youjianqunfa-faq.html</loc>
+    <lastmod>2014-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-youjianqunfa-help.html</loc>
+    <lastmod>2014-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-youjianqunfa-lianxu.html</loc>
+    <lastmod>2013-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-youjianqunfaruanjiandetuwenbianjiqi.html</loc>
+    <lastmod>2012-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-youjianqunfaruhebaituo.html</loc>
+    <lastmod>2012-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-zhuanhuanlv.html</loc>
+    <lastmod>2013-12-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-qunfa-zhuanye-smtp.html</loc>
+    <lastmod>2012-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-shouji-mobile-search-faq.html</loc>
+    <lastmod>2014-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-shouji-shouji-price-188.html</loc>
+    <lastmod>2013-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-sousuo-email-sipder-faq.html</loc>
+    <lastmod>2014-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-sousuo-email-spider-help.html</loc>
+    <lastmod>2014-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-sousuo-free-file-split.html</loc>
+    <lastmod>2013-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-sousuo-mobile-search-help.html</loc>
+    <lastmod>2012-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-sousuo-why-duplicated-email-spider.html</loc>
+    <lastmod>2013-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-baibi-xiaojie.html</loc>
+    <lastmod>2012-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-beihushideyoujianqunfaxijie.html</loc>
+    <lastmod>2014-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-change-pc.html</loc>
+    <lastmod>2021-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-chufashi-youjianyingxiao.html</loc>
+    <lastmod>2014-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-get-product-key.html</loc>
+    <lastmod>2014-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-marketing2014.html</loc>
+    <lastmod>2014-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-piliangchaxunshoujihaomaguishudi.html</loc>
+    <lastmod>2012-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-quickly-avoid-spam-email.html</loc>
+    <lastmod>2014-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-qunfa-yingxiao-4-yaosu.html</loc>
+    <lastmod>2013-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-softdog.html</loc>
+    <lastmod>2024-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.qunfa.biz/posts/qunfabiz-yingxiao-travel-website-email-marketing.html</loc>
+    <lastmod>2014-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
