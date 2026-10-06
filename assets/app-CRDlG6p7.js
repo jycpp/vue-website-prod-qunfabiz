@@ -1943,7 +1943,7 @@ description: 商友软件联系方式——微信、QQ、抖音、B站私信入�
 </div>
 
 <p>
-  <a href="http://cms.weiduke.com/index.php/Wap/Selfform/index/token/gwcuuk1411034699/id/7.shtml" class="inline-flex min-h-[44px] items-center justify-center rounded-xl bg-brand px-6 text-base font-semibold text-white shadow-card transition-all duration-200 hover:bg-brand-light hover:shadow-card-hover">提交业务洽谈信息</a>
+  <a href="http://cms.weiduke.com/index.php/Wap/Selfform/index/token/gwcuuk1411034699/id/7.shtml" class="inline-flex min-h-[44px] items-center justify-center rounded-xl bg-brand px-6 text-base font-semibold text-white shadow-card transition-all duration-200 hover:bg-brand-light hover:shadow-card-hover" style="color:rgba(255, 255, 255, 1);">提交业务洽谈信息</a>
 </p>
 
 <p class="text-sm text-ink-soft">提交后我们会结合你的行业与获客目标，给出初步的获客建议，作为「预约线索诊断」的起点。</p>
